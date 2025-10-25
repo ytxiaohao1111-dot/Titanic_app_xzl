@@ -63,3 +63,4 @@ for cls, ax in zip([1, 2, 3], axes):
 plt.tight_layout()
 plt.show()
 st.pyplot(fig)
+
